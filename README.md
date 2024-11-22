@@ -24,7 +24,7 @@ Role: Production and Introduction of the First Virtual Scene Presenting "the Ant
   <img src="https://img.shields.io/badge/Maya-00B4F0?style=for-the-badge&logo=autodesk-maya&logoColor=white" alt="Maya"/>
   <img src="https://img.shields.io/badge/Photoshop-0000FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Notion-D3D3D3?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
 </div> <br><br>
 
 
@@ -42,3 +42,5 @@ Role: Production and Introduction of the First Virtual Scene Presenting "the Ant
   <img src="https://img.shields.io/badge/Instagram-@allerykollery-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   <img src="https://img.shields.io/badge/Phone-%2B012345678-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   <img src="https://img.shields.io/badge/Naver%20Mail-rladbstjrladbstj%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/> <br><br>
+
+*Shall we Coding?*
