@@ -13,7 +13,7 @@
 The 2nd Conference of the College of Art & Technology at Chung-Ang University: Turning Point (2024.11.16-17)<br>
 Team: TahcTPG 5000.9<br>
 Role: Production and Introduction of the First Virtual Scene Presenting "the Anthropocene Issue Through Chicken Bones"<br>
-🔗[Turning Point](https://www.instagram.com/p/DB060-Phj8O/?igsh=MXBiZWM0MzI5M3R4aA==)<br><br>
+🔗[Turning Point](https://www.instagram.com/p/DB060-Phj8O/?igsh=MXBiZWM0MzI5M3R4aA==)<br><br><br>
 
 <div align="center">
   🔧Tools🔧 <br>
